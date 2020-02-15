@@ -26,29 +26,3 @@ This workshop is meant to be highly interactive. The instructor will lead you in
 ## Content
 The primary source of content will be relatively bare Azure Notebooks where the instructor will guide you through discovering the different features of Pandas, general data cleaning and manipulation, and a few advanced machine learning models such as PCA, ROC, K-Means, and Naive Bayes.
 
-## Today's Schedule
-| Timing | T| opic |
-| ---- |-| ----- |
-| 45 minutes | | Introduction to Data Science Keynote |
-| 75 minutes | | Joining Datasets |
-| 30 minutes | | Lunch | 
-| 75 minutes | | Principal Component Analysis (PCA) | 
-| 75 minutes | | Machine Learning Accuracy | 
-| 45 minutes | | Wrap Up and Next Steps |
-
-## Tips and Tricks
-Azure Notebooks is still in Preview. This means that there are some times when it will fail. Here are some tips for avoiding losing your work:
-- Ensure their work is being saved. In the Jupyter Notebook there is always one of two messages to the right of the title of the notebook: `(autosaved)` or `(unsaved changes)`. Make sure you're noticing that your work is being saved. You should consider checking every 10 minutes or so. 
-- Sometimes Notebooks get into a state where the Kernel cannot be started. Sometimes re-starting the kernel will work. But often you will have to somepletely sign out of Azure Notebooks and then sign back in. 
-
-## Reference Material
-If you need a referesher on how to code in Python or work with NumPy or Pandas, we recommend you check out the materials from our other Reactor Wowrkshops:
-[Data Science 1: Introduction to Python for Data Science](https://aka.ms/DataScience1)
-[Data Science 2: Beginners Data Science for Python Developers](https://aka.ms/DataScience2)
-
-### Further Microsoft Learn Pathways
-https://docs.microsoft.com/en-us/learn/paths/intro-to-ml-with-python/
-https://docs.microsoft.com/en-us/learn/paths/build-ai-solutions-with-azure-ml-service/
-https://docs.microsoft.com/en-us/learn/paths/get-started-with-azure-dsvm/
-https://docs.microsoft.com/en-us/learn/paths/explore-data-science-tools-in-azure/
-https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/
